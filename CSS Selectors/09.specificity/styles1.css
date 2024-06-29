@@ -1,0 +1,11 @@
+p {
+    /* Style for type selector */
+    font-style: italic;
+}
+
+.highlight {
+    /* Style for class selector */
+    font-style: oblique;
+    /* Class Style is appplied before the atribute selector style */
+    
+}

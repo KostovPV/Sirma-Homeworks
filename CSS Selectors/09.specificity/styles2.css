@@ -1,0 +1,10 @@
+#unique {
+    /* Style for ID selector */
+    font-size: large;
+    /*        id   takes precedence        */
+}
+
+.highlight {
+    /* Style for class selector */
+    font-size: x-large;
+}
