@@ -1,0 +1,7 @@
+.box {
+    /* margin, border, padding, and content area */
+    margin: 25px;
+    border: 2px solid blueviolet;
+    padding: 15px;
+    width: 60%;
+}

@@ -1,0 +1,9 @@
+.width-example {
+    /* Set width, min-width, and max-width */
+    min-width: 300px;
+    max-width: 600px;
+}
+
+body {
+    min-width: 300px;
+}

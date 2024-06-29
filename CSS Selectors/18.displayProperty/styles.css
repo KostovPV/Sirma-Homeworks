@@ -1,0 +1,15 @@
+.block {
+    font-weight: bold;
+    font-size: large;
+}
+
+.inline {
+    border: 1px solid salmon;
+    
+    
+}
+
+.inline-block {
+    border: dotted red;
+    font-style: italic;
+}

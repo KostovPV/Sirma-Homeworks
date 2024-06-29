@@ -1,0 +1,11 @@
+div p {
+    /* Style for descendant combinator */
+    font-size: xx-large;
+
+}
+
+div > p {
+    /* Style for child combinator */
+    font-size: large;
+    /* Child combinator takes over the descendant */
+}

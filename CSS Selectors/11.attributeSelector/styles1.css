@@ -1,0 +1,9 @@
+input[type="text"] {
+    /* Style for text input */
+    font-weight: bold;
+}
+
+input[type="submit"] {
+    /* Style for submit input */
+    font-style: initial;
+}
